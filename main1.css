@@ -1,0 +1,25 @@
+#headline {
+    font-size: 4rem;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+color: #f0a07c;
+}
+#main{   
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: none;
+    background:#f0a07c;
+}
+body{
+    background:  #4a274f no-repeat;
+    background-size: 150%;
+    padding: 3em;
+    color: aliceblue;
+}
+tr{
+    color: aliceblue;
+}
+#theadnew{
+    background: #4a274f;
+}
